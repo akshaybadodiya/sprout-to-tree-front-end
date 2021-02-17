@@ -2,7 +2,7 @@
   "name": "sprout-to-tree",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://akshaybadodiya.github.io/sprout-to-tree/",
+  "homepage": "https://akshaybadodiya.github.io/sprout-to-tree-front-end/",
   "devDependencies": {
     "@types/react-router-dom": "^5.1.5"
   },
